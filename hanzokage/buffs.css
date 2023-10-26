@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=ABeeZee&display=swap');
+body{
+    body{
+        background-image: url(fundo.jpg);
+        background-repeat: no-repeat;
+        background-size:cover;
+        background-position: center;
+        height: 1180px;
+    }
+    
+}
+
+
+.h1-1 {
+    font-family: 'ABeeZee', sans-serif;
+    font-size: 30px;
+}
+
+.h1-2 {
+
+    font-family: 'ABeeZee', sans-serif;
+    font-size: 30px;
+
+}
+
+.titulo {
+
+    font-family: 'New Rocker', sans-serif;
+}
+
+.jogar {
+    font-size: 50px;
+    font-family: 'ABeeZee', sans-serif;
+
+
+}
+
+p {
+
+    font-family: 'ABeeZee', sans-serif;
+
+}
+
+main {
+    border-radius: 0px;
+    display: flex;
+    flex-direction: column;
+    background-color: inherit;
+    align-items: center;
+    width: 740px;
+    margin: 0 auto;
+    font-family: 'ABeeZee', sans-serif;
+    
+
+}
+
+video {
+    border-radius: 10px;
+
+}
+
+.jungle {
+    max-width: 500px;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+
+.build {
+    max-width: 500px;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+
+.foot{
+    opacity: 50%;
+    color: #838383;
+    margin: 40px;
+    font-family: 'ABeeZee', sans-serif;
+    margin-top: 320px;
+}
+
+.creditos{
+    color: aqua;
+    
+        
+    }
