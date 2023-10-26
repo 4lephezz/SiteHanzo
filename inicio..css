@@ -1,0 +1,43 @@
+body {
+    background-image: url(fundo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 1180px;
+}
+
+
+main {
+    height: 710px;
+    width: 1300px;
+    margin: 0 auto;
+
+
+}
+
+p {
+    width: 600px;
+    font-family: 'New Rocker', sans-serif;
+    font-size: 20px;
+
+}
+
+.intro {
+    font-size: 15px;
+    font-family: 'ABeeZee', sans-serif;
+}
+
+.intro2 {
+    font-size: 15px;
+    font-family: 'ABeeZee', sans-serif;
+}
+
+.creditos {
+    font-family: 'ABeeZee', sans-serif;
+    font-size: 20px;
+    position: absolute;
+    top: 680px;
+    right: 1310px; 
+    z-index: 1;
+
+}
