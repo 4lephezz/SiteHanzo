@@ -41,3 +41,73 @@ p {
     z-index: 1;
 
 }
+@media screen and (max-width: 900px) {
+    
+    
+    
+    main {
+        grid-template-columns: 1fr;
+        max-width: 300px;
+        height: 810px;
+    }
+
+    .intro {
+        font-size: 10px;
+        max-width: 300px;
+
+    }
+
+    p {
+        font-size: 15px;
+        max-width: 300px;
+
+
+    }
+
+    .intro2 {
+        font-size: 10px;
+        max-width: 300px;
+    }
+
+    div {
+        display: flex;
+        flex-direction: column;
+
+    }
+
+    .photo {
+        display: none;
+
+
+    }
+
+    video {
+        
+        max-width: 300px;
+        top:840px;
+        left: 38px;
+    }
+
+    h1 {
+        font-size: 40px;
+
+
+    }
+
+    .road {
+        font-size: 20px;
+
+    }
+
+    ul a {
+        padding: 10px 20px;
+        font-size: 10px;
+        margin-left: 20px;
+    }
+
+footer{
+font-size: 10px;
+
+}
+    
+}
